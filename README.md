@@ -32,8 +32,13 @@ To activate --> **Name_of_virtual_env/Scripts/activate** (for e.g. --> myenv/Scr
 
 ---
 
-## 🖥️ To Install Dependencies (Use any one command (first one recommended))
+## 🖥️ To Install Dependencies
 pip install -r requirements.txt  
+
+---
+
+## To Run App Using Django 
+python manage.py runserver
 
 ---
 
