@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ---
 
-## To Run App Using Django 
+## 🚨 To Run App Using Django 
 python manage.py runserver
 
 ---
