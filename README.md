@@ -39,9 +39,7 @@ pip install Django
 ---
 
 ## 🌐 Live Demo
-Check out the live deployed project here: [View Project on Render](https://your-render-deployment-url.com)
+Check out the live deployed project here: [View Project on Render](https://celebal-assignment-2.onrender.com)
 
 ---
 
-## 📸 Screenshot
-![App Screenshot](screenshot.png)
