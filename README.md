@@ -27,19 +27,16 @@ This is a simple and interactive web application built with **Django** that allo
 ---
 
 ## 🔗 To Create Virtual Environment
-To create virtual env --> Python -m venv Name_of_Virtual_env (for e.g. --> python -m venv myenv)  
-To activate --> Name_of_virtual_env/Scripts/activate (for e.g. --> myenv/Scripts/activate)
+To create virtual env --> **Python -m venv Name_of_Virtual_env** (for e.g. --> python -m venv myenv)  
+To activate --> **Name_of_virtual_env/Scripts/activate** (for e.g. --> myenv/Scripts/activate)
 
 ---
 
 ## 🖥️ To Install Dependencies (Use any one command (first one recommended))
 pip install -r requirements.txt  
-pip install Django
 
 ---
 
 ## 🌐 Live Demo
 Check out the live deployed project here: [View Project on Render](https://celebal-assignment-2.onrender.com)
-
----
 
